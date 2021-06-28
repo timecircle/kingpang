@@ -1,0 +1,46 @@
+.bg-home{
+  height:48rem;
+  background:#FFC530;
+}
+.bg-home .btn-primary{
+  background-color: #00796B !important;
+}
+.bg-home .navbar-nav .open .dropdown-toggle{
+  color: #fff;
+}
+.popular{
+  height: 345px;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+.popular .content{
+  bottom: 0;
+  position: absolute;
+}
+.tip{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background: rgba(255, 238, 197, 0.39);
+}
+.bound{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+#home-slide .bg{
+  height:38rem;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.banner-header{
+  position: absolute;
+  bottom: 50%;
+  text-transform: uppercase;
+}
+.search{
+  margin-top:-20%;
+}
