@@ -22,6 +22,25 @@
 
 @import "app.min.css";
 
+@media (min-width: 1200px){
+  .container {
+    width: 1160px;
+    max-width: 100%;
+  } 
+}
+
+
+@media(min-width: 1400px){
+  .container{
+    width : 1360px;
+    max-width: 100%;
+  }
+}
+
+
+body{
+  font-size:1.1rem;
+}
 .navbar-nav .box {
   border-color: #607D8B;
   border-radius: .5rem;
@@ -49,7 +68,7 @@
 }
 @media screen and (min-width: 800px) {
   .navbar-nav .space{
-    margin-right:7.85%
+    margin-right:6.6rem
   }
 }
 
